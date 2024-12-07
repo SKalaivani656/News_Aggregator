@@ -2,8 +2,8 @@ services:
   - name: News_Aggregator
     type: node
     env: node
-    buildCommand:  npm install
-    startCommand:  npm start
+    buildCommand: cd backend && npm install
+    startCommand: cd backend && npm start
     instances: 1
     ports:
       - 3000
