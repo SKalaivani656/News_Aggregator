@@ -5,8 +5,8 @@
   "main": "server.js",
   "scripts": {
      "start": "node Backend/server.js",
-    "dev" : "nodemon server.js"
-     "build": "npm install",
+    "dev" : "nodemon server.js",
+     "build": "npm install && npm build",
     "test": "echo \"Error: no test specified\" && exit 1"
      },
   "keywords": [],
