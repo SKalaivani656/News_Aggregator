@@ -1,0 +1,6 @@
+services:
+  - name: News_Aggregator
+    type: node
+    env: node
+    buildCommand: cd backend && npm install
+    startCommand: cd backend && npm start
