@@ -36,6 +36,11 @@ async function makeApiRequest(url) {
     };
   }
 }
+// Validate API_KEY presence
+if (!process.env.API_KEY) {
+  console.error("Error: API_KEY is not defined in the environment variables.");
+  process.exit(1);
+}
 
 app.get("/all-news", async (req, res) => {
   let pageSize = parseInt(req.query.pageSize) || 80;
