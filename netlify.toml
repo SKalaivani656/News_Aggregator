@@ -4,12 +4,12 @@
   # Specify the directory that will be deployed as public-facing content
   publish = "Backend"
   # Point to the directory where serverless functions are stored
-  functions = "Backend/netlify/functions"
+  functions = "Frontend/src/components"
   # Optional command to install dependencies before build
   command = "npm install && npm run build"
 
 [[redirects]]
   # Redirect frontend routes properly (for frontend routing in Single Page Applications)
   from = "/*"
-  to = "/index.html"
+  to = "/app.jsx"
   status = 200
