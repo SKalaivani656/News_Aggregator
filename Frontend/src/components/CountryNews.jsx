@@ -24,7 +24,7 @@ function CountryNews() {
   useEffect(() => {
     setIsLoading(true);
     setError(null);  
-    fetch(`http://localhost:3000/top-headlines?language=en${params.iso}?page=${page}&pageSize=${pageSize}`)
+    fetch(`https://news-aggregator-tqp5.onrender.com/top-headlines?language=en${params.iso}?page=${page}&pageSize=${pageSize}`)
     
       .then((response) => {
         if (response.ok) {
@@ -106,12 +106,3 @@ export default CountryNews;
 
 
 
-/* // URL params: `params.iso` holds the country ISO code (e.g., "us", "in", etc.)
-    const countryCode = params.iso;
-    const countryName = getCountryName(countryCode.toUpperCase()); // Get full country name
-    const categoryParam = params.category ? `&category=${params.category}` : "";
-
-    // Build the fetch URL with country ISO and API key
-    const fetchUrl = `${countryNewsAPI}?country=${countryCode}&language=en${categoryParam}&page=${page}&pageSize=${pageSize}&apiKey=${apiKey}`;
-
-    fetch(fetchUrl)*/
