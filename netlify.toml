@@ -10,6 +10,6 @@
 
 [[redirects]]
   # Redirect frontend routes properly (for frontend routing in Single Page Applications)
-  from = "/*"
+  from = "/"
   to = "/index.html"
   status = 200
