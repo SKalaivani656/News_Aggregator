@@ -1,9 +1,15 @@
 {
+  "name": "News_Aggregator",
+  "version": "1.0.0",
   "scripts": {
     "start": "node server.js",
     "build": "npm install && npm run build"
+  },
+  "dependencies": {
+    "express": "^4.x.x"
   }
 }
+
 {
   "name": "server",
   "version": "1.0.0",
