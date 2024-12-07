@@ -14,44 +14,7 @@ app.use(cors({
   allowedHeaders: ['Content-Type', 'Authorization']
 }));
 
-/*app.use(express.urlencoded({ extended: true }));
-app.use(express.json());
-mongoose.connect("mongodb+srv://skalai:newsaggregator@cluster0.e52ea.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0");
 
-app.listen(3001, ()=>{
-  console.log("server is running");
-})
-//register
-app.post("/signin", (req,res)=>{
-  EmployeeModel.create(req.body)
-  .then(employees => res.json(employees))
-  .catch(err=> res.json(err))
-
-})
-
-//login
-app.post("/login", (req,res)=>{
-  const {email,password} =req.body;
-
-  EmployeeModel.findOne({email: email})
-  .then(user=> {
-    if(user){
-      if(user.password === password){
-        res.json("Success")
-      } else {
-        res.json("The password is incorrect")
-      }
-
-    }else{
-      res.json("No recode esists!")
-    }
-  }
-  )
-  .catch(err=> res.json(err))
-
-})
-
-*/
 
 // Helper function for API requests
 async function makeApiRequest(url) {
