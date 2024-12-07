@@ -42,7 +42,7 @@ if (!process.env.API_KEY) {
   process.exit(1);
 }
 
-app.get("/all-news", async (req, res) => {
+app.get("/", async (req, res) => {
   let pageSize = parseInt(req.query.pageSize) || 80;
   let page = parseInt(req.query.page) || 1;
   let q = req.query.q || 'world'; // Default search query if none provided
