@@ -2,9 +2,9 @@
   # Set the base directory to the frontend directory
   base = "Frontend"
   # Specify the directory that will be deployed as public-facing content
-  publish = "Frontend/build"
+  publish = "build"
   # Point to the directory where serverless functions are stored
-  functions = "Frontend/src/components"
+  functions = "/src/components"
   # Optional command to install dependencies before build
   command = "npm install && npm run build"
 
