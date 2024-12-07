@@ -11,5 +11,5 @@
 [[redirects]]
   # Redirect frontend routes properly (for frontend routing in Single Page Applications)
   from = "/*"
-  to = "/app.jsx"
+  to = "/index.html"
   status = 200
