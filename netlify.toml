@@ -2,7 +2,7 @@
   # Set the base directory to the frontend directory
   base = "Frontend"
   # Specify the directory that will be deployed as public-facing content
-  publish = "index.html"
+  publish = "Frontend/build"
   # Point to the directory where serverless functions are stored
   functions = "Frontend/src/components"
   # Optional command to install dependencies before build
