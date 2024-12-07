@@ -6,6 +6,7 @@ const cors = require("cors");
 const app = express();
 //const EmployeeModel = require('./models/Employee')
 
+
 // CORS configuration
 app.use(cors({
   origin: '*', // Be cautious with this in production
