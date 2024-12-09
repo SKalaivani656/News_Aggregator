@@ -11,6 +11,14 @@ import TopHeadlines from "./components/TopHeadlines";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import CountryNews from "./components/CountryNews";
 
+import { defineConfig } from 'vite';
+
+export default defineConfig({
+  plugins: [],
+  resolve: {
+    extensions: ['.js', '.jsx'], // Ensure .jsx files are resolved correctly
+  },
+});
 
 function App() {
   const [count, setCount] = useState(0)
