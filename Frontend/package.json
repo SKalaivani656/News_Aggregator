@@ -2,7 +2,7 @@
   "name": "client",
   "private": true,
   "version": "0.0.0",
-     "main": "server.js",
+     "main": "Backend/server.js",
   "type": "module",
   "scripts": {
     "dev": "vite",
