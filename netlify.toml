@@ -4,7 +4,7 @@
   # Specify the directory that will be deployed as public-facing content
   publish = "."
   # Point to the directory where serverless functions are stored
-  functions = "/"
+  functions = "/src"
   # Optional command to install dependencies before build
   command = "npm install && npm run build"
 
