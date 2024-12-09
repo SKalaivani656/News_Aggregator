@@ -10,8 +10,12 @@ export default defineConfig({
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/api/, ''),
       },
+      
     },
   },
   plugins: [react()],
   //server : {host : true}
-})
+  resolve: {
+    extensions: ['.js', '.jsx'], // Ensure .jsx files are resolved correctly
+  },
+});
