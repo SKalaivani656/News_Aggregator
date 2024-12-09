@@ -28,7 +28,7 @@ function App() {
     <BrowserRouter>
         <Header />
         <Routes>
-          <Route path="/" element={<AllNews />} />
+          <Route path="." element={<AllNews />} />
           <Route path="/top-headlines/:category" element={<TopHeadlines />} />
           <Route path="/country/:iso" element={<CountryNews />} />
         </Routes>
