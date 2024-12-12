@@ -3,6 +3,7 @@ import { useParams } from 'react-router-dom'
 import EverythingCard from './Card'
 import Loader from "./Loader";
 import Header from "./Header";
+import ReactDOM from "react-dom/client";
 
 function TopHeadlines() {
   const params = useParams();
