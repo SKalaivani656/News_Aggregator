@@ -1,9 +1,7 @@
 
-Here’s a template for your **News Aggregator** project:
 
----
 
-# **News Aggregator**  
+# **News Aggregator - S.KALAIVANI**  
 This is a news aggregator project designed to collect and display news articles from multiple sources in a single platform. Built using  Node.js  
 Express.js , MongoDB , EJS , CSS  , the project enables users to stay updated on current events by aggregating articles based on their interests.  
 
