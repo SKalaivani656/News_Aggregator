@@ -1,6 +1,7 @@
-import { React, useState, useEffect } from 'react';
+import  React, { useState, useEffect } from 'react';
 import EverythingCard from './Card';
 import Loader from './Loader';
+import ReactDOM from "react-dom/client";
 
 function AllNews() {
   const [data, setData] = useState([]);
