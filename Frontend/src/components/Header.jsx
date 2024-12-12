@@ -5,7 +5,7 @@ import downArrow from './../assets/downarrow.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCircleArrowDown } from '@fortawesome/free-solid-svg-icons'
 import axios from 'axios';
-
+import ReactDOM from "react-dom/client";
 
 
 
