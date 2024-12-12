@@ -6,7 +6,7 @@
   # Point to the directory where serverless functions are stored
   functions = "/src"
   # Optional command to install dependencies before build
-  command = "npm install && npm run build "
+  command = "npm run build "
 
 [[redirects]]
   # Redirect frontend routes properly (for frontend routing in Single Page Applications)
