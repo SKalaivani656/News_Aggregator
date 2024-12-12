@@ -55,7 +55,7 @@ To run this application on your local machine, follow these steps:
 
 ## **Live Link**  
 - **Backend Deployement Link** = https://news-aggregator-tqp5.onrender.com
-- **Frontend Deployement Link** = 
+- **Frontend Deployement Link** = https://skalaivani-news-aggregator.netlify.app/
 
 ---
 
