@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import ReactDOM from "react-dom/client";
 function Loader() {
   return (
     <div className='loader-container w-full absolute flex justify-center top-0 left-0'>
