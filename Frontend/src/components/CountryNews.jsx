@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import EverythingCard from './Card';
 import Loader from './Loader';
+import ReactDOM from "react-dom/client";
 
 function CountryNews() {
   const params = useParams();
