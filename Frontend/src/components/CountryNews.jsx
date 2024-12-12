@@ -25,7 +25,7 @@ function CountryNews() {
   useEffect(() => {
     setIsLoading(true);
     setError(null);  
-    fetch(`https://skalaivani-news-aggregator.netlify.app//top-headlines?language=en${params.iso}?page=${page}&pageSize=${pageSize}`)
+    fetch(`https://news-aggregator-tqp5.onrender.com/top-headlines?language=en${params.iso}?page=${page}&pageSize=${pageSize}`)
     
       .then((response) => {
         if (response.ok) {
