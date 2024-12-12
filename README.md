@@ -53,18 +53,11 @@ To run this application on your local machine, follow these steps:
 
 ---
 
-## **Acknowledgements**  
-This project utilized the following libraries and resources:  
-- [Resource/Tool Name 1]  
-- [Resource/Tool Name 2]  
-- [Resource/Tool Name 3]  
-- [Mention any deployment platforms]  
 
----
 
 ## **Live Link**  
-**Backend Deployement Link** = https://news-aggregator-tqp5.onrender.com
-**Frontend Deployement Link** = 
+- **Backend Deployement Link** = https://news-aggregator-tqp5.onrender.com
+- **Frontend Deployement Link** = 
 
 ---
 
