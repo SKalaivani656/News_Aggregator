@@ -23,7 +23,7 @@ function AllNews() {
   useEffect(() => {
     setIsLoading(true);
     setError(null);
-    fetch(`https://news-aggregator-tqp5.onrender.com/all-news?page=${page}&pageSize=${pageSize}`)
+    fetch(`http://news-aggregator-tqp5.onrender.com/all-news?page=${page}&pageSize=${pageSize}`)
       .then(response => {
         if (response.ok) {
           return response.json();
