@@ -55,6 +55,8 @@ To run this application on your local machine, follow these steps:
 - ## LIGHT THEME HOME PAGE
 
 ![Screenshot 2025-02-09 120652](https://github.com/user-attachments/assets/87f0ad91-1041-42c8-850d-67907ac4da5f)
+![Screenshot 2025-02-09 123858](https://github.com/user-attachments/assets/09f70e88-f167-42de-8c2d-7bd76d5f16f2)
+
 
 ---
 - ## COUNTRIES
