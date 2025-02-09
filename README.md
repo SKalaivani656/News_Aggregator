@@ -51,15 +51,15 @@ To run this application on your local machine, follow these steps:
 
 ---
 
+## **NEWS AGGREGATOR ** 
+
+![Screenshot 2025-02-09 120652](https://github.com/user-attachments/assets/87f0ad91-1041-42c8-850d-67907ac4da5f)
 
 ![Screenshot 2025-02-09 120929](https://github.com/user-attachments/assets/c01f6d78-c7a7-46a8-892e-a31bac279c3a)
-
 
 ![Screenshot 2025-02-09 120815](https://github.com/user-attachments/assets/11d3cbcc-c3f8-46d8-8ae3-624cfffc7060)
 
 
-
-![Screenshot 2025-02-09 120652](https://github.com/user-attachments/assets/87f0ad91-1041-42c8-850d-67907ac4da5f)
 
 
 ## **Live Link**  
