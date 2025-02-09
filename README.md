@@ -52,16 +52,27 @@ To run this application on your local machine, follow these steps:
 ---
 
 ## NEWS AGGREGATOR 
-- HOME PAGE
-![Screenshot 2025-02-09 120652](https://github.com/user-attachments/assets/87f0ad91-1041-42c8-850d-67907ac4da5f)
----
-- COUNTRIES
-![Screenshot 2025-02-09 120929](https://github.com/user-attachments/assets/c01f6d78-c7a7-46a8-892e-a31bac279c3a)
----
-- TOP HEADLINES
-![Screenshot 2025-02-09 120815](https://github.com/user-attachments/assets/11d3cbcc-c3f8-46d8-8ae3-624cfffc7060)
----
+- ## LIGHT THEME HOME PAGE
 
+![Screenshot 2025-02-09 120652](https://github.com/user-attachments/assets/87f0ad91-1041-42c8-850d-67907ac4da5f)
+
+---
+- ## COUNTRIES
+![Screenshot 2025-02-09 120929](https://github.com/user-attachments/assets/c01f6d78-c7a7-46a8-892e-a31bac279c3a)
+
+---
+- ## TOP HEADLINES
+![Screenshot 2025-02-09 120815](https://github.com/user-attachments/assets/11d3cbcc-c3f8-46d8-8ae3-624cfffc7060)
+
+---
+- ## DARK THEME
+![Screenshot 2024-12-07 133616](https://github.com/user-attachments/assets/3092e0d8-14a9-467f-83e7-0b10a8bf9b3d)
+
+
+
+![Screenshot 2024-12-07 133651](https://github.com/user-attachments/assets/540f35db-ae05-4a6c-8dde-09bfff712f43)
+
+---
 
 
 ## **Live Link**  
