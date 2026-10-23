@@ -1,9 +1,11 @@
 
 
 
-# **News Aggregator - S.KALAIVANI**  
-This is a news aggregator project designed to collect and display news articles from multiple sources in a single platform. Built using  Node.js  
-Express.js , MongoDB , EJS , CSS  , the project enables users to stay updated on current events by aggregating articles based on their interests.  
+ # News Aggregator
+
+**Developed by S. Kalaivani**
+
+News Aggregator is a full-stack web application that collects and displays news articles from multiple sources on a single platform. It is built with the MERN stack (MongoDB, Express.js, React and Node.js) and styled with CSS. It helps users stay updated on current events by bringing articles together in one place and letting them browse by category, country and keyword.
 
 ---
 
@@ -37,16 +39,19 @@ To run this application on your local machine, follow these steps:
 - Filter news by categories such as technology, sports, health, etc.  
 - View detailed news articles with summaries and links to the original sources.  
 - Search news articles based on keywords or topics.  
-- Save favorite articles for later reference.  
+- Save favorite articles for later reference. 
+- Browse country-wise news and top headlines.
+- Light and dark themes.
 
 ---
 
 ## **Tools Used**  
-- Node.js  
-- Express.js  
-- MongoDB  
-- EJS  
-- CSS  
+| Area | Technologies |
+|---|---|
+| Frontend | React, JavaScript, CSS |
+| Backend | Node.js, Express.js |
+| Database | MongoDB, Mongoose |
+| Other | Axios | 
     
 
 ---
@@ -79,10 +84,17 @@ To run this application on your local machine, follow these steps:
 
 ---
 
+## Project Structure
+
+- `Backend/` — Node.js and Express.js server
+- `Frontend/` — React application
+
+---
 
 ## **Live Link**  
-- **Backend Deployement Link** = https://news-aggregator-tqp5.onrender.com
 - **Frontend Deployement Link** = https://skalaivani-news-aggregator.netlify.app/
+- **Backend Deployement Link** = https://news-aggregator-tqp5.onrender.com
+
 
 ---
 
